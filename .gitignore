@@ -1,0 +1,4 @@
+# este archivo es para variables de entorno
+.env  
+
+node_modules
